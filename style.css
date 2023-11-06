@@ -1,0 +1,239 @@
+*{margin: 0;}
+.wrap{width: 100%;}
+.box1{
+    width: 1920px;
+    height: 1000px;
+}
+.sbox1_1{
+    width: 1920px;
+    height: 85px;
+    background-color: #B05144;
+    margin: 0 auto;
+    position: relative; 
+}
+.sbox1_2{
+    width: 1920px;
+    height: 830px;
+    margin: 0 auto;
+    position: relative;
+    background-image: url(img/img01.png);
+}
+.sb1_1{
+    width: 802px;
+    height: 234px;
+    top: 32px;
+    left: 1039px;
+    position: absolute;
+}
+.sb1_2{
+    width: 600px;
+    height: 116px;
+    top: 265px;
+    position: absolute;
+    left: 1140px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    color: white;
+    font-weight: 100;
+    text-align: center;
+}
+.sb1_3{
+    width: 170px;
+    height: 361px;
+    top: 412px;
+    left: 1355px;
+    right: 395px;
+    position: absolute;
+}
+.sbox1_3{
+    width: 1920px;
+    height: 85px;
+    background-color: #B05144;
+    margin: 0 auto;
+    position: relative;
+}
+
+.box2{
+    width: 1920px;
+    height: 1000px;
+}
+.sbox2{
+    width: 1920px;
+    height: 1000px;
+    margin: 0 auto;
+    position: relative;
+}
+.sb2_1{
+    width: 1920px;
+    height: 1000px;
+    background-image: url(img/img02.png);
+    position: absolute;
+    margin: 0 auto;
+}
+.sb2_2{
+    width: 1000px;
+    height: 192px;
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 100;
+    top: 111px;
+    left: 460px;
+    position: absolute;
+}
+.sb2_3{
+    width: 1000px;
+    height: 192px;
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 100;
+    top: 360px;
+    left: 460px;
+    position: absolute;
+}
+
+.box3{
+    width: 1920px;
+    height: 1000px;
+}
+.sbox3{
+    width: 1920px;
+    height: 1000px;
+    margin: 0 auto;
+    position: relative;
+    background-color: #FCF3E5;
+}
+.sb3_1{
+    width: 1930px;
+    height: 1000px;
+    background-image: url(img/img03.png);
+    position: absolute;
+    margin: 0 auto;
+}
+.sb3_2{
+    width: 1000px;
+    height: 327px;
+    color: black;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 100;
+    top: 77px;
+    left: 460px;
+    position: absolute;
+}
+.box4{
+    width: 1920px;
+    height: 1000px;
+    background-color: #FCF3E5;
+}
+.sbox4{ 
+    width: 1920px;
+    height: 1000px;
+    margin: 0 auto;
+    position: relative;
+    background-color: #FCF3E5;
+}
+.sb4_1{
+   width: 795px;
+   height: 795px;
+   top: 102px;
+   left: 563px;
+   position: absolute;
+}
+.sb4_2{
+    width: 1000px;
+    height: 293px;
+    color: black;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 100;
+    top: 186px;
+    left: 460px;
+    position: absolute;
+}
+.sb4_3{
+    width: 1000px;
+    height: 319px;
+    color: black;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 100;
+    top: 496px;
+    left: 460px;
+    position: absolute;
+}
+.box5{
+    width: 1920px;
+    height: 1000px;
+
+}
+.sbox5_1{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0 auto;
+    position: relative;
+    padding: 0px; margin: 0px;
+}
+.box5 video{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    padding: 0px; margin: 0px;
+    position: absolute;
+}
+.dim{
+    width: 1920px;
+    height: 1000px;
+    background-color: black;
+    opacity: 0.6;
+    position: absolute;
+    margin: 0 auto;
+}
+.sbox5_2{
+    width: 550px;
+    height: 90px;
+    background-color: black;
+    position: absolute;
+    margin: 0 auto;
+    top: 4879px;
+    left: 687px;
+}
+.sb5_1{
+    width: 485px;
+    height: 30px;
+    color: white;
+    font-size: 22px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 100;
+    top: 30px;
+    left: 33px;
+    text-align: center;
+    position: absolute;
+    margin: 0 auto;
+}
+.sbox5_3{
+    width: 1100px;
+    height: 135px;
+    top: 4709px;
+    left: 410px;
+    margin: 0 auto;
+    position: absolute;
+}
+.sb5_2{
+    width: 1100px;
+    height: 135px;
+    position: absolute;
+    color: white;
+    font-size: 31px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 100;
+    text-align: center; 
+    margin: 0 auto;
+}
